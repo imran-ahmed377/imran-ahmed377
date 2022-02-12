@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybercat37794)](https://github.com/anuraghazra/github-readme-stats)
+
+Most used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercat37794&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+🔁 Streak:
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cybercat37794&theme=radical)  
+
+![Profile views](https://gpvc.arturio.dev/cybercat37794)  
