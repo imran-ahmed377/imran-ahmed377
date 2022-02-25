@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercat37794&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/cybercat37794/github-readme-stats"><img alt="Imran Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cybercat37794&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/cybercat37794/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercat37794&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 📶 Streak:
 
 <p align="center">
