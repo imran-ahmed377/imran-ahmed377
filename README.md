@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <a href="https://github.com/cybercat37794/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imran Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cybercat37794&theme=darcula&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 👨‍💻 Most used Languages:
 
@@ -26,6 +21,10 @@ Here are some ideas to get you started:
 
 📶 Streak:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cybercat37794&theme=darcula)  
+<p align="center">
+    <a href="https://github.com/cybercat37794/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imran Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cybercat37794&theme=darcula&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> 
 
 ![Profile views](https://gpvc.arturio.dev/cybercat37794)  
