@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     </a>
 </p> 
 
+## ⚡Activity:
 [![Imran's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybercat37794&theme=gruvbox)](https://github.com/cybercat37794/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/cybercat37794)  
