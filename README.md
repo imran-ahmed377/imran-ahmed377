@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybercat37794&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 👨‍💻 Most used Languages:
 
