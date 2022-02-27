@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </p> 
 
 ## ⚡Contributions:
-[![Imran's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybercat37794&theme=darcula)](https://github.com/cybercat37794/github-readme-activity-graph)
+[![Imran's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybercat37794&theme=dracula)](https://github.com/cybercat37794/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/cybercat37794)  
