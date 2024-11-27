@@ -1,40 +1,20 @@
-# Hi there, I'm Imran Ahmed! 👋
-
-![Profile Banner](https://avatars.githubusercontent.com/u/68174387?v=4)
+# Hi there! 👋
 
 ## About Me
 
-I'm a passionate developer with a love for open-source projects and sharing knowledge with the community. When I'm not coding, you can find me exploring new technologies, reading, or hiking.
+As a Master of Applied Computing student, I am eager to apply my skills and knowledge to the fields of artificial intelligence, machine learning, deep learning, and data science. Throughout my studies and various projects, I have gained experience in programming languages and developed my understanding of algorithms, data structures, and software development principles. I am a proactive learner and always looking to improve my skills.
 
-- 🌱 I’m currently learning [current technology you're learning]
-- 💬 Ask me about [your areas of expertise]
-- 📫 How to reach me: [your email/contact info]
-- ⚡ Fun fact: [a fun fact about you]
+I am particularly interested in how AI and machine learning can be used to solve real-world problems and improve our lives. I am fascinated by the potential of machine learning and deep learning techniques and am excited to learn more about how they can be applied to solve current problems.
 
-## GitHub Stats
+As a data science enthusiast, I am also eager to explore how data can be used to drive decision-making and business growth. Through my coursework and projects, I have developed a diverse set of technical skills such as data cleaning, data analysis, data visualization, and knowledge extraction. I have worked with a variety of tools like Pandas, Numpy, Matplotlib and Weka and am able to work in a team as well as independently.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybercat37794&show_icons=true&theme=radical)
+With my technical skills and enthusiasm for the field, I am confident in my ability to make meaningful contributions for the team and to make an impact in this exciting and rapidly evolving field. I am open to entry-level job opportunities and willing to relocate. Open to connecting and exploring possible opportunities.
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercat37794&layout=compact&theme=radical)
 
-## Projects
-
-### Project 1
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_1&theme=radical)](https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN)
-
-### Project 2
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_2&theme=radical)]([https://github.com/cybercat37794/project_2](https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN))
-
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your_profile)
-
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/cybercat37794/count.svg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmed-mac-uwindsor/)
 
