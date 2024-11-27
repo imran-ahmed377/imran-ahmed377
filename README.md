@@ -1,7 +1,6 @@
-### Hi there 👋
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Imran Ahmed! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your_profile_image.png)
+![Profile Banner](https://avatars.githubusercontent.com/u/68174387?v=4)
 
 ## About Me
 
@@ -24,11 +23,11 @@ I'm a passionate developer with a love for open-source projects and sharing know
 
 ### Project 1
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_1&theme=radical)](https://github.com/cybercat37794/project_1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_1&theme=radical)](https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN)
 
 ### Project 2
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_2&theme=radical)](https://github.com/cybercat37794/project_2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cybercat37794&repo=project_2&theme=radical)]([https://github.com/cybercat37794/project_2](https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN))
 
 ## Connect with Me
 
