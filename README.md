@@ -17,4 +17,5 @@ With my technical skills and enthusiasm for the field, I am confident in my abil
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmed-mac-uwindsor/)
+[![Portfolio](https://cybercat37794.github.io/imranahmed/index.html#)
 
