@@ -11,10 +11,10 @@ I am passionate about building AI-driven solutions that solve real-world problem
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercat37794&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-ahmed377&layout=compact&theme=radical)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmed-mac-uwindsor/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Portfolio&logoColor=white)](https://cybercat37794.github.io/imranahmed/index.html#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Portfolio&logoColor=white)](https://imran-ahmed377.github.io/imranahmed/index.html#)
 
