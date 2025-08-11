@@ -15,6 +15,6 @@ I am passionate about building AI-driven solutions that solve real-world problem
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmed-mac-uwindsor/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-imran-ahmed-/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Portfolio&logoColor=white)](https://imran-ahmed377.github.io/imranahmed/index.html#)
 
