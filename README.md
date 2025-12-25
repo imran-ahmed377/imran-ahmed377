@@ -9,10 +9,6 @@ In addition to my academic research, I have worked as an AI Prompt Response Writ
 
 I am passionate about building AI-driven solutions that solve real-world problems. I am actively seeking full-time opportunities in AI, Machine Learning, and Data Science where I can apply my skills to drive innovation and impact.
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-ahmed377&layout=compact&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-imran-ahmed-/)
