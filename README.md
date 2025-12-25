@@ -5,7 +5,7 @@ I am a highly motivated AI and Machine Learning professional with a strong backg
 
 I have experience working on real-world AI and ML projects, including bias mitigation in `NLP` using Graph Neural Networks, stock price prediction using LSTM, and Bangla handwritten digit classification using CNNs. My technical skills include Python, R, TensorFlow, PyTorch, Scikit-learn, SQL, and cloud platforms like Microsoft Azure.
 
-In addition to my academic research, I have worked as an AI Prompt Response Writer at Telus Digital and completed an internship at AIUB, where I contributed to AI research and software development.
+In addition to my academic research, I have worked in Exeevo, MealLens AI and completed an internship at AIUB, where I contributed to AI research and software development.
 
 I am passionate about building AI-driven solutions that solve real-world problems. I am actively seeking full-time opportunities in AI, Machine Learning, and Data Science where I can apply my skills to drive innovation and impact.
 
