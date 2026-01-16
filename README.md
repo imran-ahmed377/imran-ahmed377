@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I am a Data Scientist with 2+ years of experience building and deploying production-ready machine learning and generative AI solutions in cloud environments. My expertise spans data preprocessing, feature engineering, classical machine learning, deep learning, and LLM-based workflows, including **Retrieval-Augmented Generation (RAG)**, prompt engineering, and model fine-tuning.
+I am a Data Scientist with experience in building and deploying production-ready machine learning and generative AI solutions in cloud environments. My expertise spans data preprocessing, feature engineering, classical machine learning, deep learning, and LLM-based workflows, including **Retrieval-Augmented Generation (RAG)**, prompt engineering, and model fine-tuning.
 
 I have completed my Master of Applied Computing (Artificial Intelligence Stream) at the University of Windsor, where I strengthened my foundation in advanced AI, distributed systems, system programming, and software engineering. During my studies, I worked on impactful industry and research projects involving NLP, computer vision, fairness in AI, and large-scale data systems.
 
